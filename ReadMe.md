@@ -25,7 +25,7 @@ The dataset contains information about various products across different categor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/item-recommendation-system.git
+   git clone https://github.com/syed-ali-jibran-rizvi/MBA-Apriori_TransactionalData.git
    cd item-recommendation-system
    ```
 
@@ -34,16 +34,6 @@ The dataset contains information about various products across different categor
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-
-1. Run the main script to start the recommendation system:
-
-   ```bash
-   python recommendation_system.py
-   ```
-
-2. Follow the prompts to select the items you have purchased, and the system will provide item recommendations based on the association rules.
 
 ## Example
 
