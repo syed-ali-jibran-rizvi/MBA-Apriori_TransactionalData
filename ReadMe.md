@@ -1,4 +1,4 @@
-#MBA: APRIORI ALGORITHM FOR ASSOCIATION RULE MINING ON TRANSACTIONAL DATA
+## MBA: APRIORI ALGORITHM FOR ASSOCIATION RULE MINING ON TRANSACTIONAL DATA
 # Item Purchase and Recommendation System
 
 This repository implements an item purchase and recommendation system using association rule mining. The system suggests additional items to users based on the items they have purchased, leveraging association rules derived from the dataset.
